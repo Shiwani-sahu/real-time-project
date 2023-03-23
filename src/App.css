@@ -79,8 +79,8 @@ margin-bottom: 30px;
 
 }
 .createNewBtn:hover,
-footer a {
-  color:#368654;
-  border-color: #368654;
+footer a:hover {
+  color:#37bb69;
+  border-color: #0ef165;
 }
 
